@@ -5,10 +5,10 @@ public class BasamakDegeri {
 	public static void main(String[] args) {
 		int gsayi;
 		Scanner inp = new Scanner(System.in);
-		System.out.println("Lütfen Bir Sayý Giriniz: ");
+		System.out.println("LÃ¼tfen Bir SayÃ½ Giriniz: ");
 		gsayi = inp.nextInt();
 	 
-	        int adet = 0,toplam=0;
+	        int toplam=0;
 	 
 	        while(gsayi != 0)
 	        {
@@ -17,7 +17,7 @@ public class BasamakDegeri {
 	    
 	        }
 	 
-	        System.out.println("Basamak Toplamý: " + toplam);
+	        System.out.println("Basamak ToplamÃ½: " + toplam);
 	    } 
 
 	}
