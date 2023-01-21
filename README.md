@@ -1,0 +1,2 @@
+# BasamakDegeri
+BasamakDegeri
